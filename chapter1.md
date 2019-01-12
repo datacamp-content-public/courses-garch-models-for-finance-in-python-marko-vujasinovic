@@ -13,10 +13,10 @@ xp: 100
 skills: 2
 ```
 
-![](https://imgur.com/6ns3pCN)
-![](https://imgur.com/ermuFjt)
-![](https://imgur.com/jTnkBIv)
-![](https://imgur.com/4wzLCMs)
+![](https://imgur.com/6ns3pCN.jpg?1)
+![](https://imgur.com/ermuFjt.jpg?1)
+![](https://imgur.com/jTnkBIv.jpg?1)
+![](https://imgur.com/4wzLCMs.jpg?1)
 
 `@instructions`
 ```python
