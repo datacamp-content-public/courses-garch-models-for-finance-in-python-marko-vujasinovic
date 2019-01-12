@@ -13,7 +13,10 @@ xp: 100
 skills: 2
 ```
 
-![This is an example exercise.](image-url)
+![](https://imgur.com/6ns3pCN)
+![](https://imgur.com/ermuFjt)
+![](https://imgur.com/jTnkBIv)
+![](https://imgur.com/4wzLCMs)
 
 `@instructions`
 ```python
@@ -39,7 +42,7 @@ print s
 ```
 
 `@hint`
-
+![](image-url)
 
 `@pre_exercise_code`
 ```{python}
