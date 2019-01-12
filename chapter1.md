@@ -51,27 +51,7 @@ print s
 
 `@sample_code`
 ```{python}
-```python
-s = "from arch import arch_model
 
-  # define model
-  model = arch_model(TimeSeries_dataset, p=1, q=1)
-
-  # fit model
-  model_fit = model.fit(update_freq=5, disp='off')
-
-  # forecast the test set
-  yhat = model_fit.forecast()
-
-
-  # print the modle_fit summary
-  print(model_fit.summary())
-
-  # plot standardized residuals
-  model_fit.plot(annualize=’D’)
-"
-print s
-```
 ```
 
 `@solution`
