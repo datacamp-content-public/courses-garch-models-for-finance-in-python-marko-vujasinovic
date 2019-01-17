@@ -120,7 +120,7 @@ model_fit.plot(annualize=’D’)
 
 ---
 
-## Insert exercise title here
+## GJR-GARCH Model
 
 ```yaml
 type: VideoExercise
