@@ -117,3 +117,16 @@ model_fit.plot(annualize=’D’)
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 3ab2111fe2
+xp: 50
+```
+
+`@projector_key`
+61287527ef165535759eee30d93b7900
